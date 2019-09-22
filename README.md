@@ -1,1 +1,1 @@
-https://github.com/galyna-stegniy/rsschool-cv.git
+https://galyna-stegniy.github.io/rsschool-cv/cv
